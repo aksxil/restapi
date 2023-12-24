@@ -1,0 +1,34 @@
+[
+    {
+        "name":"iphone10",
+        "price":120,
+        "company":"apple"
+    },
+    {
+        "name":"iphone11",
+        "price":220,
+        "company":"apple"
+    },
+    {
+        "name":"Samsung",
+        "price":3520,
+        "company":"samsung"
+    },
+    {
+        "name":"iphone14",
+        "price":12320,
+        "company":"apple",
+        "Featured":"true"
+    },
+    {
+        "name":"iphone13",
+        "price":1230,
+        "company":"apple"
+    },
+    {
+        "name":"remdi10",
+        "price":1230,
+        "company":"mi",
+        "Featured":"true"
+    }
+]
